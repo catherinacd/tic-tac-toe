@@ -1,0 +1,9 @@
+.square {
+  border: 1px solid #333;
+  background-color: #fff;
+  font-size: 1.5rem;
+}
+
+.square--win {
+  background-color: #3abe50;
+}
